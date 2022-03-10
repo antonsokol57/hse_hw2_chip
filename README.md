@@ -28,3 +28,5 @@ ENCFF753ZNI.fastq
 ![image](https://user-images.githubusercontent.com/92381120/157700195-05292c0a-1bd0-4053-9db9-f43a9ab86d95.png)
 ![image](https://user-images.githubusercontent.com/92381120/157700229-84f002bc-bbd5-41f4-be61-c9c65d43603a.png)
 
+Таблица:
+![image](https://user-images.githubusercontent.com/92381120/157700529-53c374d5-9b4a-4ecf-a687-76c00620c969.png)
