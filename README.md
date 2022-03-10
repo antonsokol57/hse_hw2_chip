@@ -5,6 +5,7 @@
 # Fastqc:
 
 ENCFF025CYO.fastq
+
 ![image](https://user-images.githubusercontent.com/92381120/157698676-35d9813b-2e8d-480d-99eb-5930e47b1fb8.png)
 ![image](https://user-images.githubusercontent.com/92381120/157698743-38174e99-712f-448b-9bf3-6f25117c41be.png)
 ![image](https://user-images.githubusercontent.com/92381120/157698793-404496ce-d75c-4b68-97dc-e8a933671bcb.png)
