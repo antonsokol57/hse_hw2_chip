@@ -41,3 +41,4 @@ ENCFF753ZNI.fastq
 ![image](https://user-images.githubusercontent.com/92381120/157703134-d61aa154-1fc4-4ee5-a245-9de5e717d97b.png)
 ![image](https://user-images.githubusercontent.com/92381120/157703043-4c65dcea-4ea1-40b5-b337-6685274ba90c.png)
 
+Так как мы выравнивали на одну хромосому, пересечений оказалось мало. Но то, что количества пересечений оказались одинаковыми при наложении в обе стороны -- совпадение. 
