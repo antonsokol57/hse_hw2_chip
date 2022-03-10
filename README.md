@@ -30,6 +30,14 @@ ENCFF753ZNI.fastq
 
 Фильтрация или подрезание на потребовались, так как качества чтений были хорошие.
 
-Таблица:
+# Таблица:
 
 ![image](https://user-images.githubusercontent.com/92381120/157700529-53c374d5-9b4a-4ecf-a687-76c00620c969.png)
+
+# Диаграммы Венна:
+
+[Intervene_venn.pdf](https://github.com/antonsokol57/hse_hw2_chip/files/8224937/Intervene_venn.pdf)
+[Intervene_venn (1).pdf](https://github.com/antonsokol57/hse_hw2_chip/files/8224939/Intervene_venn.1.pdf)
+[Intervene_venn (2).pdf](https://github.com/antonsokol57/hse_hw2_chip/files/8224940/Intervene_venn.2.pdf)
+[Intervene_venn (3).pdf](https://github.com/antonsokol57/hse_hw2_chip/files/8224941/Intervene_venn.3.pdf)
+
