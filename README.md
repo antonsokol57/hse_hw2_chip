@@ -36,8 +36,8 @@ ENCFF753ZNI.fastq
 
 # Диаграммы Венна:
 
-[Intervene_venn.pdf](https://github.com/antonsokol57/hse_hw2_chip/files/8224937/Intervene_venn.pdf)
-[Intervene_venn (1).pdf](https://github.com/antonsokol57/hse_hw2_chip/files/8224939/Intervene_venn.1.pdf)
-[Intervene_venn (2).pdf](https://github.com/antonsokol57/hse_hw2_chip/files/8224940/Intervene_venn.2.pdf)
-[Intervene_venn (3).pdf](https://github.com/antonsokol57/hse_hw2_chip/files/8224941/Intervene_venn.3.pdf)
+![image](https://user-images.githubusercontent.com/92381120/157702786-99f2231c-7c63-4149-a524-432ad9330d62.png)
+![image](https://user-images.githubusercontent.com/92381120/157702934-bbf86070-1583-4cf8-b499-dac3fe80e82e.png)
+![image](https://user-images.githubusercontent.com/92381120/157703134-d61aa154-1fc4-4ee5-a245-9de5e717d97b.png)
+![image](https://user-images.githubusercontent.com/92381120/157703043-4c65dcea-4ea1-40b5-b337-6685274ba90c.png)
 
